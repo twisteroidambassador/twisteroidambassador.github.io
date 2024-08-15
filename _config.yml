@@ -10,9 +10,11 @@ description: >
 # Build settings
 # theme: minima
 
+url: "https://twisteroidambassador.github.io/"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Theme-specific settings
 
